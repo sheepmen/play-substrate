@@ -1,0 +1,20 @@
+Secret Key URI `//1//babe` is account:
+  Secret seed:      0x769d982ca25d3a363f25bacd4b2f08cc3a5f7d34e98ee24ae903b1257cdb753f
+  Public key (hex): 0x3c05aebeb9e9740fc49fba44d36958cfebaed238a15e5d215d20c3b858c58d16
+  Account ID:       0x3c05aebeb9e9740fc49fba44d36958cfebaed238a15e5d215d20c3b858c58d16
+  SS58 Address:     5DRQRDWEabzp8BkYjDWRmzBiBqc6DyyPKDcuogXXXgR9cVfr
+Secret Key URI `//2//babe` is account:
+  Secret seed:      0x35d7b9b1edba2887f706749c92fff9ecae690a7fb316c0092db1a6b056e5c103
+  Public key (hex): 0xd8d09f57c3ba6ab33c1ffda74aa70af40eade733d77c642a7159e2621c591203
+  Account ID:       0xd8d09f57c3ba6ab33c1ffda74aa70af40eade733d77c642a7159e2621c591203
+  SS58 Address:     5GxzB3oemXt3XskegqpVAMfCNQf1xxgSEwUz5tt97Xodg7fZ
+Secret Key URI `//3//babe` is account:
+  Secret seed:      0x234fc444565678c980c6132ee89794805d88cf49dd528d34ebefd77b1a3f5dc3
+  Public key (hex): 0x1acd1f89ba95f376393668a0461f5a77fa872370ce79ec3eefdd543b88af5b11
+  Account ID:       0x1acd1f89ba95f376393668a0461f5a77fa872370ce79ec3eefdd543b88af5b11
+  SS58 Address:     5Cfr34yFa7ZXKpVJZUG9BrxUzoEGewM15rgmJUNTKAGdAqhR
+Secret Key URI `//4//babe` is account:
+  Secret seed:      0x56dca7d87c5c58edb7d7c47487b8ac7d8a7d970d25075e47fd9082be597288c2
+  Public key (hex): 0xb8f0237be31bf5ac9c2390d1e62ca24e276ca77aeb0a3011b6c3ce47c4a05945
+  Account ID:       0xb8f0237be31bf5ac9c2390d1e62ca24e276ca77aeb0a3011b6c3ce47c4a05945
+  SS58 Address:     5GFC1BkjF1trUAJaZZuadE7KHseznFS4fiywewXewe1iw6xv
