@@ -70,6 +70,7 @@ runtime-benchmarks = [
     'frame-system/runtime-benchmarks',
     'pallet-balances/runtime-benchmarks',
     'pallet-timestamp/runtime-benchmarks',
+    'pallet-template/runtime-benchmarks',
     'pallet-benchmark-demo/runtime-benchmarks',
     'sp-runtime/runtime-benchmarks',
 ]
